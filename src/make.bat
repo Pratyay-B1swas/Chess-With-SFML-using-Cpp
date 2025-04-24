@@ -1,0 +1,1 @@
+g++ -Iinclude -Llib -o main bishop.cpp game.cpp king.cpp knight.cpp Main.cpp pawn.cpp pieces.cpp queen.cpp rook.cpp quare.cpp -lsfml-graphics -lsfml-window -lsfml-system
